@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # states.py
-
 """
 route for handling State objects and operations
 """
