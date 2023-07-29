@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # cities.py
-"""This module implement a rule that return a view"""
+"""To implement a rule that return a view"""
 from flask import jsonify, abort, request
 from models import storage
 from api.v1.views import app_views

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # amenities.py
-"""Create a new view for State objects that handles
+"""It creates a new view for State objects that handles
 all default RESTFul API actions"""
 from models import storage
 from models.amenity import Amenity
